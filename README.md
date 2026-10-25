@@ -2,10 +2,10 @@
 Proyek website Perbanas Marketplace dikembangkan untuk lomba Perbanas Technow Fest 2026 cabang Web Developmnet (E-Commerce)
 
 ## 👥 Identitas Tim
-* **Nama Tim:** [Wadimor Anti Gedor]
-* **Ketua Tim:** [Rifky Achmad Yazid]
-* **Anggota 1:** [Habibie Jenedi]
-* **Anggota 2:** [Muammar Qaddafi]
+* **Nama Tim:** Wadimor Anti Gedor
+* **Ketua Tim:** Rifky Achmad Yazid
+* **Anggota 1:** Habibie Jenedi
+* **Anggota 2:** Muammar Qaddafi
 
 ## 🛒 Deskripsi Proyek
 Perbanas Marketplace adalah platform e-commerce yang berfokus pada jual beli barang antarmahasiswa Perbanas Institut seperti buku, perlengkapan kuliah, dan barang bekas. Proyek ini dirancang dengan antarmuka yang responsif untuk memudahkan proses transaksi secara digital maupun COD (Cash On Delivery) di wilayah Perbanas Institut.
@@ -17,9 +17,9 @@ Perbanas Marketplace adalah platform e-commerce yang berfokus pada jual beli bar
 * Simulasi Checkout dan perhitungan total harga.
 
 ## 💻 Teknologi yang Digunakan
-* **Front-end:** [HTML, CSS, JavaScript]
-* **Back-end:** [Node.js]
-* **Database:** [MongoDB Compass]
+* **Front-end:** HTML, CSS, JavaScript
+* **Back-end:** Node.js
+* **Database:** MongoDB Compass
 
 ## 🚀 Cara Menjalankan Proyek (Localhost)
 Ikuti langkah-langkah berikut agar aplikasi dapat berjalan di komputer juri:
