@@ -34,7 +34,7 @@ Ikuti langkah-langkah berikut agar aplikasi dapat berjalan di komputer juri:
    * Impor file json `perbanas_marketplace.products` dan `perbanas_marketplace.users` dari folder `MongoDB` ke dalam document connection masing-masing.
 3. **Konfigurasi Koneksi:**
    * Buka Visual Studio Code dan buka folder repository ini.
-   * Buka terminal Backend dan jalankan `node server.js`.
+   * Buka terminal backend dan jalankan `node server.js`.
    * Jika sudah terhubung ke MongoDB biarkan terminal tetap terbuka.
 4. **Jalankan Aplikasi:**
    * Klik dan jalankan file bernama `index.html` pada repository ini.
