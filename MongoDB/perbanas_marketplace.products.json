@@ -1,0 +1,233 @@
+[{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf7e"
+  },
+  "id": 1,
+  "name": "Managerial Accounting 18th Edition",
+  "price": 85000,
+  "oldPrice": 150000,
+  "category": "buku",
+  "img": "akuntansi.jpg",
+  "badge": "BEKAS",
+  "seller": "Garrison, Norren, Brewen.",
+  "rating": 4.8,
+  "kondisi": "90%",
+  "desc": "Buku ini memberikan panduan komprehensif tentang bagaimana para manajer menggunakan informasi akuntansi untuk merencanakan, mengendalikan operasi, dan membuat keputusan bisnis yang strategis."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf7f"
+  },
+  "id": 2,
+  "name": "Pengantar Akuntansi 1",
+  "price": 65000,
+  "category": "buku",
+  "img": "https://www.inovasipublishing.id/wp-content/uploads/2026/09/1788488775.png",
+  "seller": "Siti A.",
+  "rating": 4.5,
+  "kondisi": "80%",
+  "desc": "Buku Pengantar Akuntansi 1 untuk semester awal. Kondisi baik, ada coretan pensil."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf80"
+  },
+  "id": 3,
+  "name": "Manajemen Keuangan Modul",
+  "price": 45000,
+  "category": "buku",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZL2O1u3t0bWal9hr4YPWPOArLy3v8FPCOUIluopzSSkxHhji",
+  "seller": "Budi S.",
+  "rating": 4.7,
+  "kondisi": "85%",
+  "desc": "Modul Manajemen Keuangan. Lengkap dengan catatan rapi."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf81"
+  },
+  "id": 4,
+  "name": "Teknologi Informasi dan Komunikasi",
+  "price": 70000,
+  "oldPrice": 120000,
+  "category": "buku",
+  "img": "https://penerbitadab.id/wp-content/uploads/2024/06/2-32.jpg",
+  "badge": "PROMO",
+  "seller": "Aisyah R.",
+  "rating": 4.6,
+  "kondisi": "88%",
+  "desc": "Buku Teknologi Informasi dan Komunikasi. Kondisi baik, tanpa coretan."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf82"
+  },
+  "id": 5,
+  "name": "Tas Ransel Laptop 15\"",
+  "price": 180000,
+  "category": "perlengkapan",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lGDDWQyXMZ6WQI6XAMSJT0D4S1HqvxICVieuuXlGOw&s=10",
+  "badge": "HOT",
+  "seller": "Rizky P.",
+  "rating": 4.4,
+  "kondisi": "80%",
+  "desc": "Tas ransel anti air, muat laptop 15 inch. Kondisi 80%, zipper normal."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf83"
+  },
+  "id": 6,
+  "name": "Botol Minum Tumbler 1L",
+  "price": 55000,
+  "category": "perlengkapan",
+  "img": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/catalog-image/103/MTA-166294056/sigg_sigg_tumbler_botol_minum_shield_therm_one_eco_green_750_ml_full01_o99iuisj.jpg",
+  "seller": "Dewi L.",
+  "rating": 4.7,
+  "kondisi": "95%",
+  "desc": "Tumbler stainless 1 liter, tahan panas & dingin. Hampir baru."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf84"
+  },
+  "id": 7,
+  "name": "Map Dokumen Plastik (Set 5)",
+  "price": 10000,
+  "category": "perlengkapan",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXqYg0HX66DF60ohJ4nZ64MJbvUfipK2aB_Xok5wjFA&s",
+  "seller": "Siti A.",
+  "rating": 4.5,
+  "kondisi": "Baru",
+  "desc": "Set 5 map dokumen plastik warna-warni. Baru, belum dipakai."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf85"
+  },
+  "id": 8,
+  "name": "Payung Lipat Anti UV",
+  "price": 40000,
+  "category": "perlengkapan",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgejfLsBTY9jbdhk4CP1bLFzrPmVNM1SBrTJJxvGaMLQ&s=10",
+  "seller": "Budi S.",
+  "rating": 4.3,
+  "kondisi": "85%",
+  "desc": "Payung lipat anti UV, ringan & praktis. Kondisi 85%."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf86"
+  },
+  "id": 9,
+  "name": "Mouse Wireless Logitech",
+  "price": 60000,
+  "oldPrice": 6500000,
+  "category": "elektronik",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZiw1GWDtFpqWPCa0G1IA2z39wvkwkDLmOO7hlDtgPXA&s=10",
+  "badge": "PROMO",
+  "seller": "Budi S.",
+  "rating": 4.9,
+  "kondisi": "85%",
+  "desc": "Mouse Wireless Logitech, nyaman digunakan. Kondisi 85%."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf87"
+  },
+  "id": 10,
+  "name": "Powerbank 10.000 MAh",
+  "price": 85000,
+  "category": "elektronik",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROe597sLeF6Dq9Exwu-OKIg04MVHuaAG9SPbZt1ZudsvWg7dEbGCiVDOTz&s=10",
+  "seller": "Aisyah R.",
+  "rating": 4.8,
+  "kondisi": "90%",
+  "desc": "Powerbank 10.000 MAh, daya tahan lama. Berfungsi normal."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf88"
+  },
+  "id": 11,
+  "name": "Flashdisk 64GB SanDisk",
+  "price": 55000,
+  "category": "elektronik",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIudapK-TZVE1fvlLq6K12BQvxGpB4x1blIf6_WCeWkA&s=10",
+  "seller": "Dewi L.",
+  "rating": 4.6,
+  "kondisi": "95%",
+  "desc": "Flashdisk 64GB, masih mulus. Sudah diformat bersih."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf89"
+  },
+  "id": 12,
+  "name": "Earphone Bluetooth TWS",
+  "price": 100000,
+  "category": "elektronik",
+  "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop",
+  "badge": "HOT",
+  "seller": "Rizky P.",
+  "rating": 4.5,
+  "kondisi": "90%",
+  "desc": "TWS Bluetooth, sound jernih, baterai awet. Lengkap dengan case."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf8a"
+  },
+  "id": 13,
+  "name": "Kalkulator Casio fx-991",
+  "price": 65000,
+  "category": "alat-tulis",
+  "img": "kalkulator.jpg",
+  "badge": "BARU",
+  "seller": "Aisyah R.",
+  "rating": 4.7,
+  "kondisi": "95%",
+  "desc": "Kalkulator scientific Casio fx-991. Berfungsi normal, masih ada casing."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf8b"
+  },
+  "id": 14,
+  "name": "Pulpen Gel Set (10 pcs)",
+  "price": 14000,
+  "category": "alat-tulis",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1km-PoPBWOem7e0M2d0sW5A8PY1aS5Z9VS94L3drx0A&s=10",
+  "seller": "Dewi L.",
+  "rating": 4.6,
+  "kondisi": "Baru",
+  "desc": "Set 10 pulpen gel warna-warni. Baru, belum dipakai."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf8c"
+  },
+  "id": 15,
+  "name": "Buku Catatan A5 Hardcover",
+  "price": 20000,
+  "category": "alat-tulis",
+  "img": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?q=80&w=800&auto=format&fit=crop",
+  "seller": "Siti A.",
+  "rating": 4.4,
+  "kondisi": "Baru",
+  "desc": "Buku catatan A5 hardcover, 200 halaman. Cocok untuk catatan kuliah."
+},
+{
+  "_id": {
+    "$oid": "6adda43be9f3e403a790cf8d"
+  },
+  "id": 16,
+  "name": "Pensil Mekanik + Isi (Set)",
+  "price": 15000,
+  "category": "alat-tulis",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdaoRL34Yz8HNPFYhCYphVmDob7EoYCdceqFcLmCqUYvQppTNTPv7A8g&s=10",
+  "seller": "Budi S.",
+  "rating": 4.5,
+  "kondisi": "Baru",
+  "desc": "Pensil mekanik 0.5mm + isi ulang. Set lengkap, baru."
+}]

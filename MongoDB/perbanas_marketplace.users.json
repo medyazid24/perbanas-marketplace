@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6adde0edfee9164bd3c99074"
+  },
+  "nama": "Rifky",
+  "nim": "2514000022",
+  "email": null,
+  "password": "123456",
+  "loginMode": "nim",
+  "createdAt": {
+    "$date": "2026-10-25T10:58:53.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adde154fee9164bd3c99075"
+  },
+  "nama": "Habibie",
+  "nim": "2517000003",
+  "email": null,
+  "password": "123456",
+  "loginMode": "nim",
+  "createdAt": {
+    "$date": "2026-10-25T11:00:36.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6adde178fee9164bd3c99076"
+  },
+  "nama": "Rifky",
+  "nim": null,
+  "email": "rifky@perbanas.id",
+  "password": "123456",
+  "loginMode": "email",
+  "createdAt": {
+    "$date": "2026-10-25T11:01:12.608Z"
+  }
+}]
